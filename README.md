@@ -1,2 +1,2 @@
 # noro-meta-nf
-Nextflow pipeline for classification and quantification of metagenomic content containing norovirus.
+Nextflow pipeline for species classification in metagenomic samples.  
